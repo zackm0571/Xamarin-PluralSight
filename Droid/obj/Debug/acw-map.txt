@@ -1,0 +1,4 @@
+PluralSightTutorial.Droid.MainActivity, PluralSightTutorial.Droid;md5dfd20c970746ff1db8abfc72be014655.MainActivity
+PluralSightTutorial.Droid.MainActivity, PluralSightTutorial.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5dfd20c970746ff1db8abfc72be014655.MainActivity
+PluralSightTutorial.Droid.MainActivity;md5dfd20c970746ff1db8abfc72be014655.MainActivity
+pluralsighttutorial.droid.MainActivity;md5dfd20c970746ff1db8abfc72be014655.MainActivity

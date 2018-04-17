@@ -1,0 +1,10 @@
+/Users/zmatthews/Projects/PluralSightTutorial/UITests/bin/Debug/PluralSightTutorial.UITests.dll
+/Users/zmatthews/Projects/PluralSightTutorial/UITests/bin/Debug/PluralSightTutorial.UITests.pdb
+/Users/zmatthews/Projects/PluralSightTutorial/UITests/bin/Debug/nunit.framework.dll
+/Users/zmatthews/Projects/PluralSightTutorial/UITests/bin/Debug/Xamarin.UITest.dll
+/Users/zmatthews/Projects/PluralSightTutorial/UITests/bin/Debug/nunit.framework.xml
+/Users/zmatthews/Projects/PluralSightTutorial/UITests/bin/Debug/Xamarin.UITest.xml
+/Users/zmatthews/Projects/PluralSightTutorial/UITests/obj/Debug/PluralSightTutorial.UITests.csprojResolveAssemblyReference.cache
+/Users/zmatthews/Projects/PluralSightTutorial/UITests/obj/Debug/PluralSightTutorial.UITests.csproj.CoreCompileInputs.cache
+/Users/zmatthews/Projects/PluralSightTutorial/UITests/obj/Debug/PluralSightTutorial.UITests.dll
+/Users/zmatthews/Projects/PluralSightTutorial/UITests/obj/Debug/PluralSightTutorial.UITests.pdb

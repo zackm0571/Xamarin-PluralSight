@@ -1,0 +1,5 @@
+/Users/zmatthews/Projects/PluralSightTutorial/PluralSightTutorial/bin/Debug/PluralSightTutorial.dll
+/Users/zmatthews/Projects/PluralSightTutorial/PluralSightTutorial/bin/Debug/PluralSightTutorial.pdb
+/Users/zmatthews/Projects/PluralSightTutorial/PluralSightTutorial/obj/Debug/PluralSightTutorial.csproj.CoreCompileInputs.cache
+/Users/zmatthews/Projects/PluralSightTutorial/PluralSightTutorial/obj/Debug/PluralSightTutorial.dll
+/Users/zmatthews/Projects/PluralSightTutorial/PluralSightTutorial/obj/Debug/PluralSightTutorial.pdb
